@@ -1,1 +1,1 @@
-FROM ikubernets/myapp:v1
+FROM ikubernetes/myapp:v1
